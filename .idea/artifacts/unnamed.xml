@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/META-INF" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/java" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    </root>
+  </artifact>
+</component>
