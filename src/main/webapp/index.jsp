@@ -1,16 +1,51 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: ahmed
-  Date: 3‏/3‏/2024
-  Time: 15:07
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="java.util.List" %>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>Recommendation System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2 {
+            color: #1db954;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            color: #b3b3b3;
+        }
+
+        input[type="text"], button {
+            padding: 10px;
+            border: none;
+            background-color: #282828;
+            color: #ffffff;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
 <h1>Recommendation System</h1>
