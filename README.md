@@ -14,7 +14,7 @@ Java EE<br>
 Servlet API<br>
 Flask (Python)<br>
 Spotify API<br>
-#Setup Instructions<br>
+# Setup Instructions<br>
 Clone the Repository:<br>
 git clone https://github.com/AhmedWarid/RecommendSpotify.git<br>
 Navigate to the Project Directory:<br>
