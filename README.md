@@ -1,7 +1,8 @@
 
 # Music Recommendation System<br>
 This project is a Java EE web application that utilizes the Servlet API to provide music recommendations based on a given track. The application sends a track name inputted by the user to a Flask Python server, which communicates with the Spotify API to retrieve recommendations in the form of a JSON object. The server then sends this JSON object back to the servlet, which parses it and displays the recommendations on the index page.
-<br>
+
+![Screenshot from 2024-03-07 14-10-04](https://github.com/AhmedWarid/RecommendSpotify/assets/121115963/6169389a-b9bc-4a1d-9e5c-f1f745dd33e2)
 # How it Works<br>
 User Input: Users input a track name into the provided input field on the web application.<br>
 Servlet Communication: The servlet sends the track name to the Flask Python server.<br>
